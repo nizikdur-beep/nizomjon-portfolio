@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#0B0D10" rx="12"/>
+  <rect x="2" y="2" width="60" height="60" fill="none" stroke="rgba(240,242,244,0.15)" stroke-width="1.5" rx="10"/>
+  <!-- Crosshairs -->
+  <line x1="8" y1="8" x2="16" y2="8" stroke="#7CE7E8" stroke-width="1.5"/>
+  <line x1="8" y1="8" x2="8" y2="16" stroke="#7CE7E8" stroke-width="1.5"/>
+  <line x1="56" y1="56" x2="48" y2="56" stroke="#7CE7E8" stroke-width="1.5"/>
+  <line x1="56" y1="56" x2="56" y2="48" stroke="#7CE7E8" stroke-width="1.5"/>
+  <!-- NH Monogram -->
+  <text x="32" y="40" font-family="'JetBrains Mono', monospace, sans-serif" font-weight="800" font-size="22" fill="#F0F2F4" text-anchor="middle" letter-spacing="1">NH</text>
+  <circle cx="48" cy="18" r="2.5" fill="#7CE7E8"/>
+</svg>
