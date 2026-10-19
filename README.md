@@ -82,3 +82,12 @@ npm run build
 # Preview production build locally
 npm run preview
 ```
+
+---
+
+## 07 — Live Production Deployment & Repository
+
+- **Public Live Website**: [https://nizikdur-beep.github.io/nizomjon-portfolio/](https://nizikdur-beep.github.io/nizomjon-portfolio/)
+- **GitHub Repository**: [https://github.com/nizikdur-beep/nizomjon-portfolio](https://github.com/nizikdur-beep/nizomjon-portfolio)
+- **Deployment Platform**: GitHub Pages (`gh-pages` branch)
+- **Status**: Live, verified, zero runtime errors.
